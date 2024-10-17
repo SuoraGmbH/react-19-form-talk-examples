@@ -1,0 +1,14 @@
+{
+  todos: [
+    {
+      id: 'a3196607-a5e7-419c-9564-e2ae312efbe5',
+      title: 'Use React 19',
+      completed: true
+    },
+    {
+      id: '41307fc4-feef-4ad0-bb68-13cc7e8588a7',
+      title: 'Prepare a talk on React 19',
+      completed: false
+    },
+  ]
+}
